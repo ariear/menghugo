@@ -20,3 +20,5 @@ fields:
   type: tag_list
   default: []
   label: tags
+pages:
+- content/posts/wah-ini-di-tambah-menggunakan-website-forestry.md
