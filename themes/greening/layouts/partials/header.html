@@ -1,0 +1,13 @@
+<header>
+    <h3>Ini Header Lo</h3>
+    <ul>
+        <li><a href="/">Home</a></li>
+        {{ if .IsHome }}
+            <li><a href="/posts">Posts</a></li>
+            <li><a href="/rekomendasi">Rekomendasi</a></li>
+        {{ end }}
+    </ul>
+        {{ if .IsPage }}
+            <h2>Mama aku ini page lo..</h2>
+        {{ end }}
+</header>

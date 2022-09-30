@@ -1,0 +1,8 @@
+<head>
+    <title>{{ .Title }}</title>
+    {{ if .Description }}
+    <meta name="description" content="{{ .Description }}">
+    {{ else }}
+    <meta name="description" content="{{ .Site.Params.Description }}">
+    {{ end }}
+</head>

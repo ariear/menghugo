@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'GREENING NJIR'
+theme = "greening"
+summaryLength = 10
+paginate = 2
+[params]
+    Description = "tempat anda menanam pohon secara digital"
