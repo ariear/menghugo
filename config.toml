@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://spectacular-chaja-8f55cd.netlify.app/'
 languageCode = 'en-us'
 title = 'GREENING NJIR'
 theme = "greening"
