@@ -21,5 +21,6 @@ fields:
   default: []
   label: tags
 pages:
+- content/posts/7-keputusan.md
 - content/posts/tutorial-menjadi-murid-teladan.md
 - content/posts/wah-ini-di-tambah-menggunakan-website-forestry.md
